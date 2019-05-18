@@ -22,13 +22,11 @@ then
 	echo
 elif [ $x -eq 2 ]
 then
-	clear
 	echo
 	./edit.sh
 	echo
 elif [ $x -eq 3 ]
 then
-	clear
 	echo
 	./delete.sh
 	echo
