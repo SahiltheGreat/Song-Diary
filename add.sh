@@ -48,7 +48,6 @@ else
 	echo -n "|" >> ~/sahilfile.txt
 	echo >> ~/sahilfile.txt
 	echo
-	clear
 	echo "$song has been added to the list!"
 #column -t -s "|" sahilfile.txt 
 fi
